@@ -4,7 +4,7 @@ This module adds thematically appropriate green and blue loot drops to ALL 450 C
 
 Rares get mostly new green drops.
 
-Rare elites get mostly neww blue drops.
+Rare elites get mostly new blue drops.
 
 Rares/rare elites which already guarantee a good drop such as the Scarlet Monastary rare spawns were not changed.
 
