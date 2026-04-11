@@ -18,7 +18,7 @@ class MyPlayer : public PlayerScript
 public:
     MyPlayer() : PlayerScript("MyPlayer") { }
 
-    void OnLogin(Player* player) override
+    void OnPlayerLogin(Player* player) override
     {
         if (sConfigMgr->GetOption<bool>("MyModule.Enable", false))
         {
@@ -28,7 +28,7 @@ public:
 };
 
 // Add all scripts in one
-void AddMyPlayerScripts()
+void Addmod_rare_dropsScripts()
 {
     new MyPlayer();
 }
