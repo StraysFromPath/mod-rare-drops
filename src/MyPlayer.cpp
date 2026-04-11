@@ -28,7 +28,7 @@ public:
 };
 
 // Add all scripts in one
-void Addmod_rare_dropsScripts()
+void AddMyPlayerScripts()
 {
     new MyPlayer();
 }
